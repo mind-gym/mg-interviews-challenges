@@ -1,0 +1,362 @@
+[
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T00:00:00Z",
+    "consumption_Wh": 162
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T00:00:00Z",
+    "consumption_Wh": 150
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T00:00:00Z",
+    "consumption_Wh": 147
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T01:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T01:00:00Z",
+    "consumption_Wh": 31
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T01:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T02:00:00Z",
+    "consumption_Wh": 54
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T02:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T02:00:00Z",
+    "consumption_Wh": 92
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T03:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T03:00:00Z",
+    "consumption_Wh": 18
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T03:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T04:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T04:00:00Z",
+    "consumption_Wh": 23
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T04:00:00Z",
+    "consumption_Wh": 53
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T05:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T05:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T05:00:00Z",
+    "consumption_Wh": 50
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T06:00:00Z",
+    "consumption_Wh": 792
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T06:00:00Z",
+    "consumption_Wh": 684
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T06:00:00Z",
+    "consumption_Wh": 754
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T07:00:00Z",
+    "consumption_Wh": 1150
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T07:00:00Z",
+    "consumption_Wh": 1204
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T07:00:00Z",
+    "consumption_Wh": 1406
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T08:00:00Z",
+    "consumption_Wh": 398
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T08:00:00Z",
+    "consumption_Wh": 457
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T08:00:00Z",
+    "consumption_Wh": 436
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T09:00:00Z",
+    "consumption_Wh": 350
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T09:00:00Z",
+    "consumption_Wh": 350
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T09:00:00Z",
+    "consumption_Wh": 350
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T10:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T10:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T10:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T11:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T11:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T11:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T12:00:00Z",
+    "consumption_Wh": 800
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T12:00:00Z",
+    "consumption_Wh": 874
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T12:00:00Z",
+    "consumption_Wh": 800
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T13:00:00Z",
+    "consumption_Wh": 273
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T13:00:00Z",
+    "consumption_Wh": 265
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T13:00:00Z",
+    "consumption_Wh": 200
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T14:00:00Z",
+    "consumption_Wh": 948
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T14:00:00Z",
+    "consumption_Wh": 957
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T14:00:00Z",
+    "consumption_Wh": 900
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T15:00:00Z",
+    "consumption_Wh": 200
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T15:00:00Z",
+    "consumption_Wh": 200
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T15:00:00Z",
+    "consumption_Wh": 298
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T16:00:00Z",
+    "consumption_Wh": 248
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T16:00:00Z",
+    "consumption_Wh": 284
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T16:00:00Z",
+    "consumption_Wh": 200
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T17:00:00Z",
+    "consumption_Wh": 1290
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T17:00:00Z",
+    "consumption_Wh": 1398
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T17:00:00Z",
+    "consumption_Wh": 1493
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T18:00:00Z",
+    "consumption_Wh": 821
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T18:00:00Z",
+    "consumption_Wh": 600
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T18:00:00Z",
+    "consumption_Wh": 600
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T19:00:00Z",
+    "consumption_Wh": 743
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T19:00:00Z",
+    "consumption_Wh": 600
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T19:00:00Z",
+    "consumption_Wh": 600
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T20:00:00Z",
+    "consumption_Wh": 600
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T20:00:00Z",
+    "consumption_Wh": 645
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T20:00:00Z",
+    "consumption_Wh": 600
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T21:00:00Z",
+    "consumption_Wh": 673
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T21:00:00Z",
+    "consumption_Wh": 600
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T21:00:00Z",
+    "consumption_Wh": 693
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T22:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T22:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T22:00:00Z",
+    "consumption_Wh": 300
+  },
+  {
+    "sensor_id": "7dd8f7f3-95e3-4b14-bd8c-1b9eb7056d7a",
+    "timestamp": "2017-03-30T23:00:00Z",
+    "consumption_Wh": 204
+  },
+  {
+    "sensor_id": "1a258617-2d1d-4dd8-9ad0-046ed2881b58",
+    "timestamp": "2017-03-30T23:00:00Z",
+    "consumption_Wh": 132
+  },
+  {
+    "sensor_id": "b08c6195-8cd9-43ab-b94d-e0b887dd73d2",
+    "timestamp": "2017-03-30T23:00:00Z",
+    "consumption_Wh": 50
+  }
+]
