@@ -5,7 +5,7 @@
 All we seem to do nowadays is pub quizzes. On Zoom... With the family... With friends.  Pub quizzes everywhere!
 
 <p align="center">
-  <img width="460" height="460" src="./pub_quiz.png">
+  <img width="600" height="600" src="./pub_quiz.png">
 </p>
 
 
