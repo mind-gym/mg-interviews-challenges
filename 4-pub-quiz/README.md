@@ -2,17 +2,14 @@
 
 ## Background
 
-All we seem to do nowadays is pub quizzes. On Zoom... With the family... With friends.  Pub quizzes everywhere!
-
+All we seem to do nowadays is pub quizzes. On Zoom... With the family... With friends. Pub quizzes everywhere. We see an opportunity for an online pub quiz system for the mass market. 
 <p align="center">
-  <img width="600" height="600" src="./pub_quiz.png">
+  <img width="450" height="450" src="./pub_quiz.png">
 </p>
-
-This means that we see an opportunity for an online pub quiz system for the masses.
 
 ## The Brief
 
-We would like you to create a prototype system for an online pub quiz in NodeJS & React;
+We would like you to create a prototype system for an online pub quiz in NodeJS & React.
 
 > When a participant joins in with the pub quiz 
 >
@@ -37,12 +34,13 @@ it as you desire.
 
 ## Approach
 
-Through this exercise we're looking for the following;
+Through this exercise we're looking for:
 
-* Don't worry about including data persistence. 90 minutes is not a long time!
-* Show off with the area of the stack you feel most comfortable
-* Still show proficiency in the areas where you are less comfortable
-* Clean and idiomatic code with an adherence to the correct paradigms
-* The same development practices you use in your day job
-* Great communication. You will be interacting with individuals of diverse skill levels
-* Feel free to use the Internet (Google, Travis or libraries / frameworks etc...) Whatever makes your life easier!
+* An application with no data persistence. 90 minutes is not a long time!
+* Excellent code in your most comfortable area of the stack.
+* Proficiency in the areas where you are less comfortable.
+* Clean and idiomatic code with an adherence to the correct paradigms.
+* The same development practices you use in your day job.
+* Great communication. You will be interacting with individuals of diverse skill levels.
+
+Feel free to use the Internet (Google, Travis or libraries / frameworks etc...) Whatever makes your life easier.
