@@ -28,7 +28,7 @@ We would like you to create a prototype system for an online pub quiz in NodeJS 
 
 ## The Questions
 
-1. The first ever commercial bungie jump took place in which country? (a) South Africa, (b) Australia, or (c) **New Zealand**
+1. The first ever commercial bungee jump took place in which country? (a) South Africa, (b) Australia, or (c) **New Zealand**
 2. When did the British children's television programme Blue Peter first air? (a)**1958**, (b)1968, or (c)1978
 3. Where did Disney open a resort on June 16, 2016? (a) Singapore, (b) **Shanghai**, or (c) Tokyo
 
