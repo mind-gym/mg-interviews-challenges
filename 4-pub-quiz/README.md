@@ -2,16 +2,19 @@
 
 ## Background
 
-All we seem to do nowadays is pub quizzes. On Zoom... With the family... With friends. Pub quizzes everywhere. We see an opportunity for an online pub quiz system for the mass market. 
+All we seem to do nowadays is pub quizzes. On Zoom... With the family... With
+friends. Pub quizzes everywhere. We see an opportunity for an online pub quiz
+system for the mass market.
+
 <p align="center">
   <img width="450" height="450" src="./pub_quiz.png">
 </p>
 
 ## The Brief
 
-We would like you to create a prototype system for an online pub quiz in NodeJS & React.
+We would like you to create a prototype system for an online pub quiz in NodeJS & Vue.
 
-> When a participant joins in with the pub quiz 
+> When a participant joins in with the pub quiz
 >
 > Then their answers are marked fairly
 >
@@ -21,7 +24,7 @@ We would like you to create a prototype system for an online pub quiz in NodeJS 
 
 :heavy_check_mark: Answers are submitted to and checked by the back end
 
-:heavy_check_mark: The user is presented with their score upon completion 
+:heavy_check_mark: The user is presented with their score upon completion
 
 ## The Questions
 
