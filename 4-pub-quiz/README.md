@@ -12,7 +12,7 @@ system for the mass market.
 
 ## The Brief
 
-We would like you to create a prototype system for an online pub quiz in NodeJS & Vue.
+We would like you to create a prototype system for an online pub quiz in NodeJS & Vue, or any other technologies you prefer.
 
 > When a participant joins in with the pub quiz
 >
