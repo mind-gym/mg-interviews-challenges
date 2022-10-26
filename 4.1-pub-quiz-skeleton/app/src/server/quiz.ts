@@ -1,0 +1,73 @@
+type AnswerID = 'a' | 'b' | 'c'
+
+type Option =
+  {
+    id: AnswerID,
+    text: string,
+  }
+
+type Question = {
+  question: string,
+  answer: AnswerID,
+  options: Option[],
+}
+
+const quiz: Question[] =
+  [
+    {
+      question: 'The first ever commercial bungee jump took place in which country?',
+      answer: 'c',
+      options: [
+        {
+          id: 'a',
+          text: 'South Africa'
+        },
+        {
+          id: 'b',
+          text: 'Australia'
+        },
+        {
+          id: 'c',
+          text: 'New Zealand'
+        }
+      ]
+    },
+    {
+      question: 'When did the British children\'s television programme Blue Peter first air?',
+      answer: 'a',
+      options: [
+        {
+          id: 'a',
+          text: '1958'
+        },
+        {
+          id: 'b',
+          text: '1968'
+        },
+        {
+          id: 'c',
+          text: '1978'
+        }
+      ]
+    },
+    {
+      question: 'Where did Disney open a resort on June 16, 2016?',
+      answer: 'b',
+      options: [
+        {
+          id: 'a',
+          text: 'Singapore'
+        },
+        {
+          id: 'b',
+          text: 'Shanghai'
+        },
+        {
+          id: 'c',
+          text: 'Tokyo'
+        }
+      ]
+    }
+  ]
+
+export default quiz
